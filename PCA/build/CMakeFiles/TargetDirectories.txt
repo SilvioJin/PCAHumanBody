@@ -1,0 +1,15 @@
+/Users/silviojin/compM080-compGV18-2019/courseworks/PCA-human-bodies/PCA/build/CMakeFiles/install.dir
+/Users/silviojin/compM080-compGV18-2019/courseworks/PCA-human-bodies/PCA/build/CMakeFiles/PCAAlgorithm_bin.dir
+/Users/silviojin/compM080-compGV18-2019/courseworks/PCA-human-bodies/PCA/build/CMakeFiles/ALL_BUILD.dir
+/Users/silviojin/compM080-compGV18-2019/courseworks/PCA-human-bodies/PCA/build/CMakeFiles/ZERO_CHECK.dir
+/Users/silviojin/compM080-compGV18-2019/courseworks/PCA-human-bodies/PCA/build/glad/CMakeFiles/install.dir
+/Users/silviojin/compM080-compGV18-2019/courseworks/PCA-human-bodies/PCA/build/glad/CMakeFiles/glad.dir
+/Users/silviojin/compM080-compGV18-2019/courseworks/PCA-human-bodies/PCA/build/glad/CMakeFiles/ALL_BUILD.dir
+/Users/silviojin/compM080-compGV18-2019/courseworks/PCA-human-bodies/PCA/build/glad/CMakeFiles/ZERO_CHECK.dir
+/Users/silviojin/compM080-compGV18-2019/courseworks/PCA-human-bodies/PCA/build/glfw/CMakeFiles/install.dir
+/Users/silviojin/compM080-compGV18-2019/courseworks/PCA-human-bodies/PCA/build/glfw/CMakeFiles/ALL_BUILD.dir
+/Users/silviojin/compM080-compGV18-2019/courseworks/PCA-human-bodies/PCA/build/glfw/CMakeFiles/ZERO_CHECK.dir
+/Users/silviojin/compM080-compGV18-2019/courseworks/PCA-human-bodies/PCA/build/glfw/src/CMakeFiles/install.dir
+/Users/silviojin/compM080-compGV18-2019/courseworks/PCA-human-bodies/PCA/build/glfw/src/CMakeFiles/glfw.dir
+/Users/silviojin/compM080-compGV18-2019/courseworks/PCA-human-bodies/PCA/build/imgui/CMakeFiles/install.dir
+/Users/silviojin/compM080-compGV18-2019/courseworks/PCA-human-bodies/PCA/build/imgui/CMakeFiles/imgui.dir

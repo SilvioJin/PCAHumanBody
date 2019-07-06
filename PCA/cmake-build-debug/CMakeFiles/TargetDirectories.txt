@@ -1,0 +1,3 @@
+/Users/silviojin/compM080-compGV18-2019/courseworks/PCA-human-bodies/PCA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/silviojin/compM080-compGV18-2019/courseworks/PCA-human-bodies/PCA/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/silviojin/compM080-compGV18-2019/courseworks/PCA-human-bodies/PCA/cmake-build-debug/CMakeFiles/PCA.dir

@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/silviojin/compM080-compGV18-2019/courseworks/PCA/src/mytools.cpp \
+  /Users/silviojin/compM080-compGV18-2019/courseworks/PCA/src/mytools.h \
+  /Users/silviojin/compM080-compGV18-2019/courseworks/PCA/src/nanoflann.hpp \
+  /Users/silviojin/compM080-compGV18-2019/courseworks/PCA/src/../../../spectra-0.7.0/include/Spectra/GenEigsSolver.h \
+  /Users/silviojin/compM080-compGV18-2019/courseworks/PCA/src/../../../spectra-0.7.0/include/Spectra/GenEigsBase.h \
+  /Users/silviojin/compM080-compGV18-2019/courseworks/PCA/src/../../../spectra-0.7.0/include/Spectra/Util/TypeTraits.h \
+  /Users/silviojin/compM080-compGV18-2019/courseworks/PCA/src/../../../spectra-0.7.0/include/Spectra/Util/SelectionRule.h \
+  /Users/silviojin/compM080-compGV18-2019/courseworks/PCA/src/../../../spectra-0.7.0/include/Spectra/Util/CompInfo.h \
+  /Users/silviojin/compM080-compGV18-2019/courseworks/PCA/src/../../../spectra-0.7.0/include/Spectra/Util/SimpleRandom.h \
+  /Users/silviojin/compM080-compGV18-2019/courseworks/PCA/src/../../../spectra-0.7.0/include/Spectra/MatOp/internal/ArnoldiOp.h \
+  /Users/silviojin/compM080-compGV18-2019/courseworks/PCA/src/../../../spectra-0.7.0/include/Spectra/LinAlg/UpperHessenbergQR.h \
+  /Users/silviojin/compM080-compGV18-2019/courseworks/PCA/src/../../../spectra-0.7.0/include/Spectra/LinAlg/DoubleShiftQR.h \
+  /Users/silviojin/compM080-compGV18-2019/courseworks/PCA/src/../../../spectra-0.7.0/include/Spectra/LinAlg/../Util/TypeTraits.h \
+  /Users/silviojin/compM080-compGV18-2019/courseworks/PCA/src/../../../spectra-0.7.0/include/Spectra/LinAlg/UpperHessenbergEigen.h \
+  /Users/silviojin/compM080-compGV18-2019/courseworks/PCA/src/../../../spectra-0.7.0/include/Spectra/LinAlg/Arnoldi.h \
+  /Users/silviojin/compM080-compGV18-2019/courseworks/PCA/src/../../../spectra-0.7.0/include/Spectra/LinAlg/../MatOp/internal/ArnoldiOp.h \
+  /Users/silviojin/compM080-compGV18-2019/courseworks/PCA/src/../../../spectra-0.7.0/include/Spectra/LinAlg/../Util/SimpleRandom.h \
+  /Users/silviojin/compM080-compGV18-2019/courseworks/PCA/src/../../../spectra-0.7.0/include/Spectra/MatOp/DenseGenMatProd.h \
+  /Users/silviojin/compM080-compGV18-2019/courseworks/PCA/src/../../../spectra-0.7.0/include/Spectra/MatOp/SparseGenMatProd.h
